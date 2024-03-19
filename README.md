@@ -5,7 +5,6 @@
 > :rocket: Hotel project made as part of the Frontend Master course from Dev Samurai.
 > The idea was to develop a template website for an online travel business.
 > With this application it would be possible for a company to register hotels and hostels, while clients utilize it to explore available options. But these features weren't implemented in this template.
-> Using React, a responsive website was made with the following features:
 > The technologies used were: HTML, CSS, Bootstrap and JavaScript.
 
 ## Versioning
