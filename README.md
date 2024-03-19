@@ -1,6 +1,6 @@
 # Hotel Samurai
 
-[![license mit](https://img.shields.io/github/license/Luc4sf/Hotel)](https://github.com/Luc4sf/Hotel/blob/main/LICENSE.md)
+[![license mit](https://img.shields.io/github/license/Luc4sf/SamuraiHotel)](https://github.com/Luc4sf/SamuraiHotel/blob/main/LICENSE.md)
 
 > :rocket: Hotel project made as part of the Frontend Master course from Dev Samurai.
 > The idea was to develop a template website for an online travel business.
@@ -20,4 +20,4 @@ This project does not yet have a contribution system
 This project does not yet have a history system
 
 ## License
-[MIT License](https://github.com/Luc4sf/Hotel/blob/main/LICENSE.md) © Lucas Faganello Silva
+[MIT License](https://github.com/Luc4sf/SamuraiHotel/blob/main/LICENSE.md) © Lucas Faganello Silva
